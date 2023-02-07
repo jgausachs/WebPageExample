@@ -1,2 +1,0 @@
-# WebPageExample
-Web page example
